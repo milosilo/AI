@@ -7,7 +7,7 @@
 
  **!!8/19/2023!! - Upcoming RateMyAI Prompt Engineering Tool Release** 
  
- **It's based on a never seen before approach, and is in the final design stages so expect it next week by the 22nd. So far its fun to use!** 
+ **The tool is based on a never seen before approach, and is in the final design stages so expect it next week by the 22nd. So far its fun to use!** 
 
 
 
