@@ -12,7 +12,7 @@
 
 
 
-I began using Chat GPT about 8 months ago and found it very interesting because the interactions required to bypass certain restrictions were similar to the elicitation techniques I used when I was in counterintelligence to gain specific information through conversation.
+I began using Chat GPT, Dec 2022, and found it very interesting because the interactions required to bypass certain restrictions were similar to the elicitation techniques I used when I was in counterintelligence to gain specific information through conversation.
 
 An example of classic elicitation might be trying to gather technology stack information on a targeted company. Once you've identified a person with placement and access, then engineered a natural encounter in a setting to speak with a stranger, such as a bar, it begins with talking about anything other than the information you are after to build rapport. From there, you move into a "get to know you" conversation format and eventually land on the topic of jobs and career.
 
