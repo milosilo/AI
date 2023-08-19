@@ -3,7 +3,14 @@
 
 **It is where to find my current prompt engineering and upcoming AI red teaming lab research writeups.**
 
- **!!8/19/2023 - RateMyAI Prompt Engineering Tool Release Soon!! It's based on a never seen before approach, and is in the final design stages so expect it next week. So far its fun to use!** 
+
+
+ **!!8/19/2023!! - !!Upcoming RateMyAI Prompt Engineering Tool Release!!** 
+ 
+ **It's based on a never seen before approach, and is in the final design stages so expect it next week. So far its fun to use!** 
+
+
+
 
 I began using Chat GPT about 8 months ago and found it very interesting because the interactions required to bypass certain restrictions were similar to the elicitation techniques I used when I was in counterintelligence to gain specific information through conversation.
 
