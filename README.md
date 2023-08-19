@@ -1,4 +1,8 @@
 # AI
+**Visit https://milosilo.com for my latest AI research** 
+**It is where to find my current prompt engineering and upcoming AI red teaming lab research writeups.**
+ **!!8/19/2023 - RateMyAI Prompt Engineering Tool Release Soon!! It's based on a never seen before approach, and is in the final design stages so expect it next week. So far its fun to use!** 
+
 I began using Chat GPT about 8 months ago and found it very interesting because the interactions required to bypass certain restrictions were similar to the elicitation techniques I used when I was in counterintelligence to gain specific information through conversation.
 
 An example of classic elicitation might be trying to gather technology stack information on a targeted company. Once you've identified a person with placement and access, then engineered a natural encounter in a setting to speak with a stranger, such as a bar, it begins with talking about anything other than the information you are after to build rapport. From there, you move into a "get to know you" conversation format and eventually land on the topic of jobs and career.
@@ -17,6 +21,4 @@ So I started by putting my notes and original rough draft into Chat GPT and aske
 
 Then my BSides submission was accepted! And then my submission for a 2-hour-long red team village workshop at DEF CON was also accepted! So the "cheese" worked, and I was presenting. Now I needed to complete the research exercise and create all of the presentation materials.
 
-I used AI to create some scripts to demo for different phases, and then decided to make a research write-up using AI to gather everything in one place. It ended up being 60 pages, so I made it an ebook with a glossary. 
-
-**To stay up to date on my most latest AI research** please visit check the Artificial Intelligence section at https://milosilo.com. It is where most of my prompt engineering and AI red teaming research is shared.  
+I used AI to create some scripts to demo for different phases, and then decided to make a research write-up using AI to gather everything in one place. It ended up being 60 pages, so I made it an ebook with a glossary.  
