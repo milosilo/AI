@@ -17,6 +17,6 @@ So I started by putting my notes and original rough draft into Chat GPT and aske
 
 Then my BSides submission was accepted! And then my submission for a 2-hour-long red team village workshop at DEF CON was also accepted! So the "cheese" worked, and I was presenting. Now I needed to complete the research exercise and create all of the presentation materials.
 
-I used AI to create some scripts to demo for different phases, and then decided to make a research write-up using AI to gather everything in one place. It ended up being 70 pages, so I made it a book with a glossary. I used that to create my slide deck text content using AI, my logo, C2s, attack tools, a Raspberry Pi CTF lab. I hope you enjoy the presentation and associated materials, including this.
+I used AI to create some scripts to demo for different phases, and then decided to make a research write-up using AI to gather everything in one place. It ended up being 60 pages, so I made it an ebook with a glossary. 
 
-To stay up to date on my most latest AI research please visit check the Artificial Intelligence section at https://milosilo.com. It is where most of my prompt engineering and AI red teaming research is shared.  
+**To stay up to date on my most latest AI research** please visit check the Artificial Intelligence section at https://milosilo.com. It is where most of my prompt engineering and AI red teaming research is shared.  
