@@ -3,11 +3,8 @@
 
 **It is where to find my current prompt engineering and upcoming AI red teaming lab research writeups.**
 
-
-
- **!!8/19/2023!! - Upcoming RateMyAI Prompt Engineering Tool Release** 
- 
- **The tool is based on a never seen before approach, and is in the final design stages so expect it next week by the 22nd. So far its fun to use!** 
+ **!!RateMyAI Tool Released for Prompt Manipulation and more!!** 
+https://github.com/milosilo/RateMyAI/blob/main/README.md
 
 
 
